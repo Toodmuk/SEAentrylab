@@ -21,7 +21,10 @@ export function SampleReport() {
         </AnimateIn>
         <AnimateIn delay={0.2}>
           <a
-            href="#"
+            href="/Thailand_Wellness_Sample_Report.pdf"
+            download
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center justify-center bg-emerald-500 hover:bg-emerald-600 text-white rounded-full px-8 py-3.5 font-medium text-base transition-all duration-200 hover:scale-[1.02] hover:shadow-lg"
           >
             Download Sample Report

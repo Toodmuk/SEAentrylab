@@ -3,7 +3,7 @@ import { motion } from "framer-motion"
 import { FloatingPaths } from "@/components/ui/background-paths"
 
 const CALENDLY_URL = "https://calendly.com/worachit-seaentrylab/discovery-call"
-const HEADLINE = "Know the market before you commit the capital."
+const HEADLINE = "Know the market before you commit your capital."
 
 export function Hero() {
   const words = HEADLINE.split(" ")
